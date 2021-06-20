@@ -21,7 +21,7 @@ A spreadsheet of states and territories. It contains 246 rows and 6 columns:
 The data were taken from the [List of ISO 3166 country codes Wikipedia page](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes) and from the [Names of coountries, their capitals and inhabitants](http://ksng.gugik.gov.pl/pliki/nazwy_panstw_swiata.pdf) by the Commision on Standardization of Geographical Names outside the Republic of Poland affiliated to the Surveyor General of Poland.
 
 ## Illustrator file
-The source image file is from the [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BlankMap-World-Microstates.svg), then was color-coded according to the data in the spreadsheet
+The source image file is from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BlankMap-World-Microstates.svg), then was color-coded according to the data in the spreadsheet.
 
 ## PNG file
 This is the exported PNG file.
