@@ -1,0 +1,247 @@
+ISO_3166-1_alpha-2,ISO_3166-1_alpha-3,name_eng,name_pol,gender,status
+AD,AND,Andorra,Andora,fem,sovereign
+AE,ARE,United Arab Emirates,Zjednoczone Emiraty Arabskie,plur,sovereign
+AF,AFG,Afghanistan,Afganistan,masc,sovereign
+AG,ATG,Antigua and Barbuda,Antigua i Barbuda,fem,sovereign
+AI,AIA,Anguilla,Anguilla,fem,other
+AL,ALB,Albania,Albania,fem,sovereign
+AM,ARM,Armenia,Armenia,fem,sovereign
+AO,AGO,Angola,Angola,fem,sovereign
+AQ,ATA,Antarctica,Antarktyda,fem,other
+AR,ARG,Argentina,Argentyna,fem,sovereign
+AS,ASM,American Samoa,Samoa Amerykańskie,neut,other
+AT,AUT,Austria,Austria,fem,sovereign
+AU,AUS,Australia,Australia,fem,sovereign
+AW,ABW,Aruba,Aruba,fem,other
+AZ,AZE,Azerbaijan,Azerbejdżan,masc,sovereign
+BA,BIH,Bosnia and Herzegovina,Bośnia i Hercegowina,fem,sovereign
+BB,BRB,Barbados,Barbados,masc,sovereign
+BD,BGD,Bangladesh,Bangladesz,masc,sovereign
+BE,BEL,Belgium,Belgia,fem,sovereign
+BF,BFA,Burkina Faso,Burkina Faso,neut,sovereign
+BG,BGR,Bulgaria,Bułgaria,fem,sovereign
+BH,BHR,Bahrain,Bahrajn,masc,sovereign
+BI,BDI,Burundi,Burundi,neut,sovereign
+BJ,BEN,Benin,Benin,masc,sovereign
+BL,BLM,Saint Barthélemy,Saint-Barthélemy,neut,sovereign
+BM,BMU,Bermuda,Bermudy,plur,other
+BN,BRN,Brunei,Brunei,neut,sovereign
+BO,BOL,Bolivia,Boliwia,fem,sovereign
+BQ,BES,"Bonaire, Sint Eustatius and Saba",Antyle Holenderskie,plur,other
+BR,BRA,Brazil,Brazylia,fem,sovereign
+BS,BHS,Bahamas,Bahamy,plur,sovereign
+BT,BTN,Bhutan,Bhutan,masc,sovereign
+BW,BWA,Botswana,Botswana,fem,sovereign
+BY,BLR,Belarus,Białoruś,fem,sovereign
+BZ,BLZ,Belize,Belize,neut,sovereign
+CA,CAN,Canada,Kanada,fem,sovereign
+CC,CCK,Cocos Islands,Wyspy Kokosowe,plur,other
+CD,COD,Congo (the Democratic Republic of the),Demokratyczna Republika Konga,fem,sovereign
+CF,CAF,Central African Republic,Republika Środkowoafrykańska,fem,sovereign
+CG,COG,Congo (the),Kongo,neut,sovereign
+CH,CHE,Switzerland,Szwajcaria,fem,sovereign
+CI,CIV,Ivory Coast,Wybrzeże Kości Słoniowej,neut,sovereign
+CK,COK,Cook Islands,Wyspy Cooka,plur,other
+CL,CHL,Chile,Chile,neut,sovereign
+CM,CMR,Cameroon,Kamerun,masc,sovereign
+CN,CHN,China,Chiny,plur,sovereign
+CO,COL,Colombia,Kolumbia,fem,sovereign
+CR,CRI,Costa Rica,Kostaryka,fem,sovereign
+CU,CUB,Cuba,Kuba,fem,sovereign
+CV,CPV,Cape Verde,Wyspy Zielonego Przylądka,plur,sovereign
+CW,CUW,Curaçao,Curaçao,neut,other
+CX,CXR,Christmas Island,Wyspa Bożego Narodzenia,fem,other
+CY,CYP,Cyprus,Cypr,masc,sovereign
+CZ,CZE,Czechia,Czechy,plur,sovereign
+DE,DEU,Germany,Niemcy,plur,sovereign
+DJ,DJI,Djibouti,Dżibuti,neut,sovereign
+DK,DNK,Denmark,Dania,fem,sovereign
+DM,DMA,Dominica,Dominika,fem,sovereign
+DO,DOM,Dominican Republic,Dominikana,fem,sovereign
+DZ,DZA,Algeria,Algieria,fem,sovereign
+EC,ECU,Ecuador,Ekwador,masc,sovereign
+EE,EST,Estonia,Estonia,fem,sovereign
+EG,EGY,Egypt,Egipt,masc,sovereign
+EH,ESH,Western Sahara,Sahara Zachodnia,fem,other
+ER,ERI,Eritrea,Erytrea,fem,sovereign
+ES,ESP,Spain,Hiszpania,fem,sovereign
+ET,ETH,Ethiopia,Etiopia,fem,sovereign
+FI,FIN,Finland,Finlandia,fem,sovereign
+FJ,FJI,Fiji,Fidżi,neut,sovereign
+FK,FLK,Falkland Islands,Falklandy,plur,other
+FM,FSM,Micronesia,Mikronezja,fem,sovereign
+FO,FRO,Faroe Islands,Wyspy Owcze,plur,other
+FR,FRA,France,Francja,fem,sovereign
+GA,GAB,Gabon,Gabon,masc,sovereign
+GB,GBR,United Kingdom,Wielka Brytania,fem,sovereign
+GD,GRD,Grenada,Grenada,fem,sovereign
+GE,GEO,Georgia,Gruzja,fem,sovereign
+GF,GUF,French Guiana,Gujana Francuska,fem,other
+GG,GGY,Guernsey,Guernsey,neut,other
+GH,GHA,Ghana,Ghana,fem,sovereign
+GI,GIB,Gibraltar,Gibraltar,masc,other
+GL,GRL,Greenland,Grenlandia,fem,other
+GM,GMB,Gambia,Gambia,fem,sovereign
+GN,GIN,Guinea,Gwinea,fem,sovereign
+GP,GLP,Guadeloupe,Gwadelupa,fem,other
+GQ,GNQ,Equatorial Guinea,Gwinea Równikowa,fem,sovereign
+GR,GRC,Greece,Grecja,fem,sovereign
+GS,SGS,South Georgia and the South Sandwich Islands,Georgia Południowa i Sandwich Południowy,plur,other
+GT,GTM,Guatemala,Gwatemala,fem,sovereign
+GU,GUM,Guam,Guam,masc,other
+GW,GNB,Guinea-Bissau,Gwinea-Bissau,fem,sovereign
+GY,GUY,Guyana,Gujana,fem,sovereign
+HK,HKG,Hong Kong,Hongkong,masc,other
+HM,HMD,Heard Island and McDonald Islands,Wyspy Heard i McDonalda,plur,other
+HN,HND,Honduras,Honduras,masc,sovereign
+HR,HRV,Croatia,Chorwacja,fem,sovereign
+HT,HTI,Haiti,Haiti,neut,sovereign
+HU,HUN,Hungary,Węgry,plur,sovereign
+ID,IDN,Indonesia,Indonezja,fem,sovereign
+IE,IRL,Ireland,Irlandia,fem,sovereign
+IL,ISR,Israel,Izrael,masc,sovereign
+IM,IMN,Isle of Man,Wyspa Man,fem,other
+IN,IND,India,Indie,plur,sovereign
+IO,IOT,British Indian Ocean Territory,Brytyjskie Terytorium Oceanu Indyjskiego,neut,other
+IQ,IRQ,Iraq,Irak,masc,sovereign
+IR,IRN,Iran,Iran,masc,sovereign
+IS,ISL,Iceland,Islandia,fem,sovereign
+IT,ITA,Italy,Włochy,plur,sovereign
+JE,JEY,Jersey,Jersey,neut,other
+JM,JAM,Jamaica,Jamajka,fem,sovereign
+JO,JOR,Jordan,Jordania,fem,sovereign
+JP,JPN,Japan,Japonia,fem,sovereign
+KE,KEN,Kenya,Kenia,fem,sovereign
+KG,KGZ,Kyrgyzstan,Kirgistan,masc,sovereign
+KH,KHM,Cambodia,Kambodża,fem,sovereign
+KI,KIR,Kiribati,Kiribati,neut,sovereign
+KM,COM,Comoros,Komory,plur,sovereign
+KN,KNA,Saint Kitts and Nevis,Saint Kitts i Nevis,masc,sovereign
+KP,PRK,North Korea,Korea Północna,masc,sovereign
+KR,KOR,South Korea,Korea Południowa,fem,sovereign
+KW,KWT,Kuwait,Kuwejt,masc,sovereign
+KY,CYM,Cayman Islands,Kajmany,plur,other
+KZ,KAZ,Kazakhstan,Kazachstan,masc,sovereign
+LA,LAO,Laos,Laos,masc,sovereign
+LB,LBN,Lebanon,Liban,masc,sovereign
+LC,LCA,Saint Lucia,Saint Lucia,fem,sovereign
+LI,LIE,Liechtenstein,Liechtenstein,masc,sovereign
+LK,LKA,Sri Lanka,Sri Lanka,fem,sovereign
+LR,LBR,Liberia,Liberia,fem,sovereign
+LS,LSO,Lesotho,Lesotho,neut,sovereign
+LT,LTU,Lithuania,Litwa,fem,sovereign
+LU,LUX,Luxembourg,Luksemburg,masc,sovereign
+LV,LVA,Latvia,Łotwa,fem,sovereign
+LY,LBY,Libya,Libia,fem,sovereign
+MA,MAR,Morocco,Maroko,masc,sovereign
+MC,MCO,Monaco,Monako,neut,sovereign
+MD,MDA,Moldova,Mołdawia,fem,sovereign
+ME,MNE,Montenegro,Czarnogóra,fem,sovereign
+MF,MAF,Saint Martin,Saint-Martin,neut,other
+MG,MDG,Madagascar,Madagaskar,masc,sovereign
+MH,MHL,Marshall Islands,Wyspy Marshalla,plur,sovereign
+MK,MKD,North Macedonia,Macedonia Północna,fem,sovereign
+ML,MLI,Mali,Mali,neut,sovereign
+MM,MMR,Myanmar,Mjanma,fem,sovereign
+MN,MNG,Mongolia,Mongolia,fem,sovereign
+MO,MAC,Macau,Makau,neut,other
+MP,MNP,Northern Mariana Islands,Mariany Północne,plur,other
+MQ,MTQ,Martinique,Martynika,fem,other
+MR,MRT,Mauritania,Mauretania,fem,sovereign
+MS,MSR,Montserrat,Montserrat,masc,other
+MT,MLT,Malta,Malta,fem,sovereign
+MU,MUS,Mauritius,Mauritius,masc,sovereign
+MV,MDV,Maldives,Malediwy,plur,sovereign
+MW,MWI,Malawi,Malawi,neut,sovereign
+MX,MEX,Mexico,Meksyk,masc,sovereign
+MY,MYS,Malaysia,Malezja,fem,sovereign
+MZ,MOZ,Mozambique,Mozambik,neut,sovereign
+NA,NAM,Namibia,Namibia,fem,sovereign
+NC,NCL,New Caledonia,Nowa Kaledonia,fem,other
+NE,NER,Niger,Niger,masc,sovereign
+NF,NFK,Norfolk Island,Norfolk,masc,other
+NG,NGA,Nigeria,Nigeria,fem,sovereign
+NI,NIC,Nicaragua,Nikaragua,fem,sovereign
+NL,NLD,Netherlands,Holandia,fem,sovereign
+NO,NOR,Norway,Norwegia,fem,sovereign
+NP,NPL,Nepal,Nepal,masc,sovereign
+NR,NRU,Nauru,Nauru,neut,sovereign
+NU,NIU,Niue,Niue,neut,other
+NZ,NZL,New Zealand,Nowa Zelandia,fem,sovereign
+OM,OMN,Oman,Oman,masc,sovereign
+PA,PAN,Panama,Panama,fem,sovereign
+PE,PER,Peru,Peru,neut,sovereign
+PF,PYF,French Polynesia,Polinezja Francuska,fem,other
+PG,PNG,Papua New Guinea,Papua Nowa Gwinea,fem,sovereign
+PH,PHL,Philippines,Filipiny,plur,sovereign
+PK,PAK,Pakistan,Pakistan,masc,sovereign
+PL,POL,Poland,Polska,fem,sovereign
+PM,SPM,Saint Pierre and Miquelon,Saint-Pierre i Miquelon,neut,other
+PN,PCN,Pitcairn,Pitcairn,masc,other
+PR,PRI,Puerto Rico,Portoryko,neut,other
+PS,PSE,Palestine,Palestyna,fem,sovereign
+PT,PRT,Portugal,Portugalia,fem,sovereign
+PW,PLW,Palau,Palau,neut,sovereign
+PY,PRY,Paraguay,Paragwaj,masc,sovereign
+QA,QAT,Qatar,Katar,masc,sovereign
+RE,REU,Réunion,Reunion,masc,other
+RO,ROU,Romania,Rumunia,fem,sovereign
+RS,SRB,Serbia,Serbia,fem,sovereign
+RU,RUS,Russia,Rosja,fem,sovereign
+RW,RWA,Rwanda,Rwanda,fem,sovereign
+SA,SAU,Saudi Arabia,Arabia Saudyjska,fem,sovereign
+SB,SLB,Solomon Islands,Wyspy Salomona,plur,sovereign
+SC,SYC,Seychelles,Seszele,plur,sovereign
+SD,SDN,Sudan,Sudan,masc,sovereign
+SE,SWE,Sweden,Szwecja,fem,sovereign
+SG,SGP,Singapore,Singapur,masc,sovereign
+SH,SHN,Saint Helena,Święta Helena,fem,other
+SI,SVN,Slovenia,Słowenia,fem,sovereign
+SJ,SJM,Svalbard,Svalbard,masc,other
+SK,SVK,Slovakia,Słowacja,fem,sovereign
+SL,SLE,Sierra Leone,Sierra Leone,neut,sovereign
+SM,SMR,San Marino,San Marino,neut,sovereign
+SN,SEN,Senegal,Senegal,masc,sovereign
+SO,SOM,Somalia,Somalia,fem,sovereign
+SR,SUR,Suriname,Surinam,masc,sovereign
+SS,SSD,South Sudan,Sudan Południowy,masc,sovereign
+ST,STP,Sao Tome and Principe,Wyspy Świętego Tomasza i Książęca,plur,sovereign
+SV,SLV,El Salvador,Salwador,masc,sovereign
+SX,SXM,Sint Maarten,Sint Maarten,neut,other
+SY,SYR,Syria,Syria,fem,sovereign
+SZ,SWZ,Eswatini,Eswatini,neut,sovereign
+TC,TCA,Turks and Caicos,Turks i Caicos,neut,other
+TD,TCD,Chad,Czad,masc,sovereign
+TF,ATF,The French Southern and Antarctic Lands, Francuskie Terytoria Południowe i Antarktyczne,plur,other
+TG,TGO,Togo,Togo,neut,sovereign
+TH,THA,Thailand,Tajlandia,fem,sovereign
+TJ,TJK,Tajikistan,Tadżykistan,masc,sovereign
+TK,TKL,Tokelau,Tokelau,neut,other
+TL,TLS,East Timor,Timor Wschodni,masc,sovereign
+TM,TKM,Turkmenistan,Turkmenistan,masc,sovereign
+TN,TUN,Tunisia,Tunezja,fem,sovereign
+TO,TON,Tonga,Tonga,neut,sovereign
+TR,TUR,Turkey,Turcja,fem,sovereign
+TT,TTO,Trinidad and Tobago,Trynidad i Tobago,neut,sovereign
+TV,TUV,Tuvalu,Tuvalu,neut,sovereign
+TW,TWN,Taiwan,Tajwan,masc,sovereign
+TZ,TZA,Tanzania,Tanzania,fem,sovereign
+UA,UKR,Ukraine,Ukraina,fem,sovereign
+UG,UGA,Uganda,Uganda,fem,sovereign
+US,USA,United States of America,Stany Zjednoczone,plur,sovereign
+UY,URY,Uruguay,Urugwaj,masc,sovereign
+UZ,UZB,Uzbekistan,Uzbekistan,masc,sovereign
+VA,VAT,Vatican City,Watykan,masc,sovereign
+VC,VCT,Saint Vincent and the Grenadines,Saint Vincent i Grenadyny,plur,sovereign
+VE,VEN,Venezuela,Wenezuela,fem,sovereign
+VG,VGB,Virgin Islands,Wyspy Dziewicze,plur,other
+VI,VIR,United States Virgin Islands,Wyspy Dziewicze Stanów Zjednoczonych,plur,other
+VN,VNM,Vietnam,Wietnam,masc,sovereign
+VU,VUT,Vanuatu,Vanuatu,neut,sovereign
+WF,WLF,Wallis and Futuna,Wallis i Futuna,fem,other
+WS,WSM,Samoa,Samoa,neut,sovereign
+YE,YEM,Yemen,Jemen,masc,sovereign
+YT,MYT,Mayotte,Majotta,fem,other
+ZA,ZAF,South Africa,Afryka Południowa,fem,sovereign
+ZM,ZMB,Zambia,Zambia,fem,sovereign
+ZW,ZWE,Zimbabwe,Zimbabwe,neut,sovereign
